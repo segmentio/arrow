@@ -31,7 +31,7 @@
     <target.gen.source.path>${project.build.directory}/generated-sources</target.gen.source.path>
     <dep.junit.platform.version>1.4.0</dep.junit.platform.version>
     <dep.junit.jupiter.version>5.4.0</dep.junit.jupiter.version>
-    <dep.slf4j.version>1.7.25</dep.slf4j.version>
+    <dep.slf4j.version>1.7.36</dep.slf4j.version>
     <dep.guava.version>30.1.1-jre</dep.guava.version>
     <dep.netty-bom.version>4.1.78.Final</dep.netty-bom.version>
     <dep.grpc-bom.version>1.47.0</dep.grpc-bom.version>
@@ -40,7 +40,7 @@
     <dep.hadoop.version>2.7.1</dep.hadoop.version>
     <dep.fbs.version>1.12.0</dep.fbs.version>
     <dep.avro.version>1.10.0</dep.avro.version>
-    <arrow.vector.classifier />
+    <arrow.vector.classifier/>
     <forkCount>2</forkCount>
     <checkstyle.failOnViolation>true</checkstyle.failOnViolation>
     <errorprone.javac.version>9+181-r4173-1</errorprone.javac.version>
@@ -449,7 +449,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -462,7 +462,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -477,7 +477,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -490,7 +490,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -503,7 +503,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
